@@ -22,3 +22,4 @@ how to apply on the components
 then implemented the components
 
 started props
+learning about props
