@@ -8,3 +8,5 @@ function GameCard(){
 }
 
 export default GameCard;
+
+// this is how to create a component in react
