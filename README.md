@@ -25,4 +25,4 @@ started props
 learning about props
 branch has been created
 implementing props
-learnign abut the interview questiona
+learnign abut the interview questiona like why is the using what is its purpose
