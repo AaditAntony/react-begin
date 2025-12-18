@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 this is based on learning
 first learn the folder structure
+then learned the components
