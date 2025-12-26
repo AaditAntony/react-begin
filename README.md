@@ -36,3 +36,5 @@ learned about the and file folder structure
 interview questions regarding the basic of react
 
 # day 2
+learned abut the props
+
