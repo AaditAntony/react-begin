@@ -34,3 +34,5 @@ did the first commit in the react
 learned about the and file folder structure
 <br>
 interview questions regarding the basic of react
+
+# day 2
