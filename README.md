@@ -29,3 +29,5 @@ learnign abut the interview questiona like why is the using what is its purpose
 
 # main 
 did the first commit in the react
+
+# day 1
