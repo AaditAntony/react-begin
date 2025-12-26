@@ -31,3 +31,4 @@ learnign abut the interview questiona like why is the using what is its purpose
 did the first commit in the react
 
 # day 1
+learned about the and file folder structure
