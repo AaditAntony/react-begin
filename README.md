@@ -37,4 +37,6 @@ interview questions regarding the basic of react
 
 # day 2
 learned abut the props
+<br>
+interview questions regarding the props
 
