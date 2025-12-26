@@ -42,3 +42,5 @@ interview questions regarding the props
 
 # porps-implementation
 i have implemented the  props using array
+
+# useState
