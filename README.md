@@ -41,4 +41,4 @@ learned abut the props
 interview questions regarding the props
 
 # porps-implementation
-i have implemented the  props
+i have implemented the  props using array
