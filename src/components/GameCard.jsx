@@ -1,7 +1,7 @@
-function GameCard(){
+function GameCard({title}){
   return (
     <div>
-      <h2> God of war </h2>
+      <h2> {title} </h2>
    
     </div>
   )
